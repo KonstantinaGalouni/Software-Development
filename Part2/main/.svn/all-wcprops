@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/std10029-std10034/!svn/ver/14/SD/main
+END
+main1.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/std10029-std10034/!svn/ver/14/SD/main/main1.c
+END
+main2.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/std10029-std10034/!svn/ver/14/SD/main/main2.c
+END
+main_functions.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/std10029-std10034/!svn/ver/14/SD/main/main_functions.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/std10029-std10034/!svn/ver/2/SD/main/makefile
+END
+main_functions.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/std10029-std10034/!svn/ver/2/SD/main/main_functions.h
+END

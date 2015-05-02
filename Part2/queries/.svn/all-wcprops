@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/std10029-std10034/!svn/ver/14/SD/queries
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/std10029-std10034/!svn/ver/2/SD/queries/makefile
+END
+queries.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/std10029-std10034/!svn/ver/14/SD/queries/queries.c
+END
+queries.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/std10029-std10034/!svn/ver/2/SD/queries/queries.h
+END

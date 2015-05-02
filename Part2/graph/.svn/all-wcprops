@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/std10029-std10034/!svn/ver/14/SD/graph
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/std10029-std10034/!svn/ver/2/SD/graph/makefile
+END
+graph.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/std10029-std10034/!svn/ver/14/SD/graph/graph.c
+END
+graph.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/std10029-std10034/!svn/ver/14/SD/graph/graph.h
+END
